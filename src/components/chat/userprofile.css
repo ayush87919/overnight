@@ -1,0 +1,29 @@
+.user-profile {
+    width: 20%;
+    background-color: #f7f7f7;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+  }
+  
+  .status {
+    color: green;
+    margin-top: 5px;
+  }
+  
+  .contact-info button {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .details {
+    margin-top: 20px;
+  }
+  
